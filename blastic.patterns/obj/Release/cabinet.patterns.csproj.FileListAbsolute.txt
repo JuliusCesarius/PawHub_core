@@ -1,0 +1,10 @@
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Release\cabinet.patterns.dll.config
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Release\cabinet.patterns.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Release\cabinet.patterns.pdb
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Release\EntityFramework.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Release\System.Linq.Dynamic.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Release\EntityFramework.xml
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\obj\Release\cabinet.patterns.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\obj\Release\cabinet.patterns.pdb

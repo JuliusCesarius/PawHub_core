@@ -1,0 +1,9 @@
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\bin\Debug\cabinet.patterns.dll.config
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\bin\Debug\cabinet.patterns.dll
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\bin\Debug\cabinet.patterns.pdb
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\bin\Debug\EntityFramework.dll
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\bin\Debug\EntityFramework.xml
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\obj\Debug\cabinet.patterns.dll
+C:\Users\Julius\Documents\GitHub\PawHub_core\blastic.patterns\obj\Debug\cabinet.patterns.pdb

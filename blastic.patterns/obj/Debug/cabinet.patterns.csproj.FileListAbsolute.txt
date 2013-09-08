@@ -1,0 +1,30 @@
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\cabinet.patterns.dll.config
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\cabinet.patterns.dll
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\cabinet.patterns.pdb
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\EntityFramework.dll
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\Isg.EntityFramework.dll
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\Isg.EntityFramework.Interceptors.SoftDelete.dll
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\bin\Debug\EntityFramework.xml
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\obj\Debug\cabinet.patterns.dll
+C:\Users\javila.GICSANET\Documents\Codigo\gicsa.wfinterpreter\cabiweb.wfInterpreter.core\cabinet.patterns\obj\Debug\cabinet.patterns.pdb
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\bin\Debug\cabinet.patterns.dll.config
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\bin\Debug\cabinet.patterns.dll
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\bin\Debug\cabinet.patterns.pdb
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\bin\Debug\EntityFramework.dll
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\bin\Debug\EntityFramework.xml
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\obj\Debug\cabinet.patterns.dll
+C:\Users\javila.GICSANET\Documents\Codigo\1.6\cabinet.patterns\obj\Debug\cabinet.patterns.pdb
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Debug\cabinet.patterns.dll.config
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Debug\cabinet.patterns.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Debug\cabinet.patterns.pdb
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\obj\Debug\cabinet.patterns.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\obj\Debug\cabinet.patterns.pdb
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Debug\EntityFramework.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Julius\Documents\My Dropbox\codigo\modelo_repositoryPattern\cabinet.patterns\bin\Debug\EntityFramework.xml
